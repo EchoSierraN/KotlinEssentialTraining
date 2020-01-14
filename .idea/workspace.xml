@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="148d954f-04ac-474e-8194-d3a1ddb266c5" name="Default Changelist" comment="" />
+    <list default="true" id="148d954f-04ac-474e-8194-d3a1ddb266c5" name="Default Changelist" comment="Control Flow package done">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/ConditionalExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/EqualityChecks.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/Iterators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/KeywordWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/WhenAsAnExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controlFlow/WhileAndDoWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssentialTraining/META-INF/KotlinEssentialTraining.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssentialTraining/META-INF/KotlinEssentialTraining.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WIiguVYcLLoEB3BBpE99rR2MbQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +40,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.introduction.ConstructorArgumentToSuperclassKt">
+  <component name="RunManager" selected="Kotlin.controlFlow.EqualityChecksKt">
     <configuration name="ConfigTest1" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
@@ -50,66 +69,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction.ApplyOperatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="controlFlow.EqualityChecksKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.ApplyOperatorsKt" />
+      <option name="MAIN_CLASS_NAME" value="controlFlow.EqualityChecksKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction.ApplyVarargsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="controlFlow.KeywordWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.ApplyVarargsKt" />
+      <option name="MAIN_CLASS_NAME" value="controlFlow.KeywordWhenKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction.ConstructorArgumentToSuperclassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="controlFlow.LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.ConstructorArgumentToSuperclassKt" />
+      <option name="MAIN_CLASS_NAME" value="controlFlow.LoopsKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction.InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="controlFlow.RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.InheritanceKt" />
+      <option name="MAIN_CLASS_NAME" value="controlFlow.RangesKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction.InheritanceParamConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="controlFlow.WhenAsAnExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinEssentialTraining" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_201\jre" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="introduction.InheritanceParamConstructorKt" />
+      <option name="MAIN_CLASS_NAME" value="controlFlow.WhenAsAnExpressionKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.introduction.ConstructorArgumentToSuperclassKt" />
-        <item itemvalue="Kotlin.introduction.InheritanceParamConstructorKt" />
-        <item itemvalue="Kotlin.introduction.InheritanceKt" />
-        <item itemvalue="Kotlin.introduction.ApplyVarargsKt" />
-        <item itemvalue="Kotlin.introduction.ApplyOperatorsKt" />
+        <item itemvalue="Kotlin.controlFlow.EqualityChecksKt" />
+        <item itemvalue="Kotlin.controlFlow.RangesKt" />
+        <item itemvalue="Kotlin.controlFlow.LoopsKt" />
+        <item itemvalue="Kotlin.controlFlow.WhenAsAnExpressionKt" />
+        <item itemvalue="Kotlin.controlFlow.KeywordWhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,31 +169,39 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Control Flow package done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Control Flow package done" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578844342553">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1578844342553" />
-    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1578914491878">
+    <state x="359" y="28" key="CommitChangelistDialog2" timestamp="1578988019526">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578914491878" />
-    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1578914491878">
+    <state x="359" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578988019526" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1578987861411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578914491878" />
-    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1578914491878">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578987861411" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1578987861411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578914491878" />
-    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1578914491878">
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578987861411" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1578987861410">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578914491878" />
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578906455064">
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578987861410" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1578987861411">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578906455064" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578987861411" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1578983739809">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578983739809" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578903714357">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
